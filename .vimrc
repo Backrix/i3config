@@ -1,0 +1,10 @@
+set number
+syntax on
+set autoindent
+set tabstop=4
+set encoding=utf-8
+set fileencodings=utf8,cp1251
+set shiftwidth=4
+set mouse=a
+set ruler
+:colorscheme darkblue
